@@ -1,0 +1,6 @@
+{
+  "name": "Rogar’s Dare Challenge",
+  "description": "An exciting Cap ou Pas Cap dare game with interactive 3D cards, live multiplayer party rooms, secret custom challenges, and Gemini-powered dynamic dare generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
